@@ -1,4 +1,4 @@
-
+[![Build Status](https://braskem.visualstudio.com/Braskem%20Price/_apis/build/status/machnot.AzureDevOpsTests?branchName=master)](https://braskem.visualstudio.com/Braskem%20Price/_build/latest?definitionId=183&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
